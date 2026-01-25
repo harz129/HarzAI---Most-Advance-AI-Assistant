@@ -116,8 +116,7 @@ plyer==2.1.0
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/harz129/HarzAI.git
-cd HarzAI
+git clone https://github.com/harz129/HarzAI---Most-Advance-AI-Assistant.gitcd HarzAI
 ```
 
 ### 2. **Install Dependencies**
