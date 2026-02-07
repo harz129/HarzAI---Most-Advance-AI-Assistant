@@ -1,5 +1,7 @@
 # 🤖 HarzAI - Most Advanced AI Assistant
 
+### Speacial thanks to @KaushikShresth07
+
 **HarzAI** is a cutting-edge AI assistant application that combines natural language processing, real-time web search, automation, multimedia generation, and voice interaction capabilities. It's designed to be an intelligent, multi-functional personal assistant that can handle complex tasks seamlessly.
 
 ---
